@@ -1,10 +1,5 @@
 <template>
-  <div>
-    <nuxt-link to="/">Index</nuxt-link>
-    <nuxt-link to="/page1">Page1</nuxt-link>
-    <nuxt-link to="/page2">Page2</nuxt-link>
-    <nuxt/>
-  </div>
+  <nuxt/>
 </template>
 
 <style>
